@@ -28,4 +28,3 @@
 
 - 个人站点：https://jilijhao.github.io/lijiahao-portfolio/
 - 邮箱：2661247098@qq.com
-- 所在地：云南 · 保山
